@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08ab9f09-e2d4-4a33-be30-ffbfe8a9c553" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/crud/models.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/settings.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/urls.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/views.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/wsgi.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/templates/edit.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/templates/index.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/templates/login.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/templates/sign_up.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NgipoTu1POQZMhcF6LoLOvBMqN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="crud" type="Python.DjangoServer" factoryName="Django server">
+      <module name="crud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08ab9f09-e2d4-4a33-be30-ffbfe8a9c553" name="Changes" comment="" />
+      <created>1680092312125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680092312125</updated>
+      <workItem from="1680092331726" duration="914000" />
+      <workItem from="1680093350599" duration="62000" />
+      <workItem from="1680093474094" duration="9364000" />
+      <workItem from="1680608034617" duration="11509000" />
+      <workItem from="1680678215557" duration="24000" />
+      <workItem from="1680680526231" duration="89000" />
+      <workItem from="1680692684270" duration="11235000" />
+      <workItem from="1680774395175" duration="230000" />
+      <workItem from="1680774707344" duration="37000" />
+      <workItem from="1680774979826" duration="56000" />
+      <workItem from="1680775086835" duration="17000" />
+      <workItem from="1680782425133" duration="1611000" />
+      <workItem from="1680784290348" duration="337000" />
+      <workItem from="1680862707708" duration="45000" />
+      <workItem from="1680863532927" duration="70000" />
+      <workItem from="1680863626493" duration="14000" />
+      <workItem from="1680868517925" duration="74000" />
+      <workItem from="1680868638841" duration="52000" />
+      <workItem from="1680869116767" duration="149000" />
+      <workItem from="1680872759813" duration="191000" />
+      <workItem from="1681039263501" duration="252000" />
+      <workItem from="1681151239350" duration="31000" />
+      <workItem from="1681154716453" duration="686000" />
+      <workItem from="1681156918813" duration="248000" />
+      <workItem from="1681158051904" duration="12000" />
+      <workItem from="1681199311493" duration="67000" />
+      <workItem from="1681199851031" duration="83000" />
+      <workItem from="1681200019430" duration="53000" />
+      <workItem from="1681200279383" duration="49000" />
+      <workItem from="1681200420911" duration="18000" />
+      <workItem from="1681200671197" duration="70000" />
+      <workItem from="1681211652908" duration="20000" />
+      <workItem from="1681212950965" duration="71000" />
+      <workItem from="1681213027992" duration="190000" />
+      <workItem from="1681213802670" duration="53000" />
+      <workItem from="1681213962468" duration="55000" />
+      <workItem from="1681214024151" duration="10000" />
+      <workItem from="1681217061628" duration="191000" />
+      <workItem from="1681218778057" duration="90000" />
+      <workItem from="1681241022588" duration="70000" />
+      <workItem from="1681241857424" duration="544000" />
+      <workItem from="1681303598681" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
